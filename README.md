@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,897 · **Forks**: 67 · **Open issues**: 35 · **Contributors**: 15
+- **Stars**: 1,899 · **Forks**: 68 · **Open issues**: 37 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 42 · **Open PRs**: 1 · **Closed issues**: 33 · **Open issues**: 2 · **Commits**: 586
+- **Releases**: 66 · **Merged PRs**: 42 · **Open PRs**: 1 · **Closed issues**: 33 · **Open issues**: 4 · **Commits**: 586
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-02 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-10-04 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last720d | 2024-10-09 | 2 | 2 | 1 | 2 | 0 | 18 |
+| 30d | 2026-08-31 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last60d | 2026-08-01 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 90d | 2026-07-02 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last180d | 2026-04-03 | 0 | 0 | 1 | 0 | 2 | 0 |
+| 360d | 2025-10-05 | 0 | 1 | 1 | 0 | 2 | 1 |
+| last720d | 2024-10-10 | 2 | 2 | 1 | 2 | 2 | 18 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for cfonts lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:37:38Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:24:48Z._
